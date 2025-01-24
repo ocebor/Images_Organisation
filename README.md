@@ -3,7 +3,7 @@ Organise your photos and videos with metadata
 
 This is a script in PYTHON to aoganise files with metadata read with exiftool (photos and videos from digital camera/smartPhone)
 
-1. Group all pictures and videos you want to organise in a folder (SOURCE). You can use CommanderOne or similar to import files from smartphone.
+1. Group all pictures and videos you want to organise into a folder (SOURCE). You can use CommanderOne or similar to import files from smartphone.
 2. Get Exiftool from official page https://exiftool.org/ and copy location of .exe file. Example "C:\exiftool\exiftool.exe" (need to be exact as appear in your folder, not as the example)
 3. Get Python installed in your machine. https://www.python.org/downloads/
 4. Copy the script ExifOrganiser.py in a location to be executed (will execute in command line)
